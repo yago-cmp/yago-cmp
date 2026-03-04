@@ -1,4 +1,7 @@
-## Hi there 👋
+<img width="1584" height="223" alt="banner-git-small" src="https://github.com/user-attachments/assets/1af2252d-d15c-4d39-be8c-1ed8c07f2719" />
+
+# Hey!👋 I'm Yago Campello!
+#### I'm currently studying CS @ UERJ, Rio de Janeiro, Brazil. 
 
 <!--
 **yago-cmp/yago-cmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
