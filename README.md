@@ -13,5 +13,5 @@ Right now I'm working on some personal projects and looking for an Internship wh
 <img src="https://img.shields.io/badge/Robotics:-556138?logo=&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white&style=flat-square"/>
 
 
-<img src="https://img.shields.io/badge/Currently Discovering:-556138?logo=&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/React-4169B1?logo=react&logoColor=white&style=flat-square"/>
+<img src="https://img.shields.io/badge/Currently Discovering:-556138?logo=&logoColor=white&style=flat-square"/> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square"/>
 ##
